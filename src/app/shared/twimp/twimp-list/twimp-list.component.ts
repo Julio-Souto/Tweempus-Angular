@@ -13,7 +13,7 @@ export class TwimpListComponent implements OnInit {
   authors: Author[] = [];
   twimps: Twimp[] = [];
 
-  ngOnInit(): void {
+  ngOnInit() {
     this.authors.push(new Author('1'));
     this.twimps.push(new Twimp('1', '', this.authors[0], this.text, '01/01/2023'));
     this.twimps.push(new Twimp('2', '', this.authors[0], this.text, '01/01/2023'));

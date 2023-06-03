@@ -9,12 +9,4 @@ import { Twimp } from '../twimp.model';
 })
 export class TwimpCardComponent {
   @Input() twimp!: Twimp;
-
-  setFavorite():void{
-    if(this.twimp.favorite)
-      this.twimp.favorite=false;
-    else
-      this.twimp.favorite=true;
-    console.log(this.twimp.favorite);
-  }
 }
