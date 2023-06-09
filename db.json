@@ -1,0 +1,114 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "fullName": "David East",
+      "image": "https://randomuser.me/api/portraits/men/83.jpg"
+    },
+    {
+      "id": "2",
+      "fullName": "David Teitelbaum",
+      "image": "https://randomuser.me/api/portraits/men/82.jpg"
+    },
+    {
+      "id": "a",
+      "fullName": "asdwa",
+      "image": ""
+    }
+  ],
+  "authenticated": [
+    {
+      "id": "QrhRy1686327647130",
+      "author": "1"
+    },
+    {
+      "id": "lvzsQ1686328563503",
+      "author": "1"
+    },
+    {
+      "id": "PuPNG1686331669173",
+      "author": "1"
+    },
+    {
+      "id": "60sKq1686331679368",
+      "author": "1"
+    },
+    {
+      "id": "0mCMY1686332326046",
+      "author": "1"
+    },
+    {
+      "id": "PMoTo1686332333967",
+      "author": "1"
+    },
+    {
+      "id": "1QA501686333938444",
+      "author": "a"
+    }
+  ],
+  "twimps": [
+    {
+      "id": "Mx5Cf1483389903318",
+      "author": "1",
+      "by": "David East",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam efficitur sodales libero, sit amet posuere arcu consectetur ut. Nam volutpat ligula ac nunc consectetur vestibulum.",
+      "timestamp": "01-01-2023"
+    },
+    {
+      "id": "T4qdo1483390015454",
+      "author": "2",
+      "by": "David Teitelbaum",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam efficitur sodales libero, sit amet posuere arcu consectetur ut. Nam volutpat ligula ac nunc consectetur vestibulum.",
+      "timestamp": "01-01-2023"
+    },
+    {
+      "id": "2",
+      "author": "1",
+      "by": "Author",
+      "content": "sadwasdsadw",
+      "timestamp": "9-6-2023"
+    },
+    {
+      "id": "3",
+      "author": "a",
+      "by": "Author",
+      "content": "asdwasd",
+      "timestamp": "9-6-2023"
+    }
+  ],
+  "author-favorites": [
+    {
+      "id": "1",
+      "twimps": [
+        "T4qdo1483390015454"
+      ]
+    },
+    {
+      "id": "2",
+      "twimps": [
+        "Mx5Cf1483389903318"
+      ]
+    },
+    {
+      "id": "a",
+      "twimps": [
+        "T4qdo1483390015454",
+        "Mx5Cf1483389903318"
+      ]
+    }
+  ],
+  "author-twimps": [
+    {
+      "id": "1",
+      "twimps": [
+        "Mx5Cf1483389903318"
+      ]
+    },
+    {
+      "id": "2",
+      "twimps": [
+        "T4qdo1483390015454"
+      ]
+    }
+  ]
+}
